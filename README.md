@@ -3,7 +3,7 @@
   - 🌱 Data Science
   - 🌱 Machine Learning
   - 🌱 Linux
-  - Optimization and cryptography
+  - 🌱 Optimization and cryptography
 
 <!---
 EmmanuelIsai/EmmanuelIsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

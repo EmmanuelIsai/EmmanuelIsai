@@ -1,6 +1,9 @@
 - ✨ Hi, I’m @EmmanuelIsai
-- 👀 I’m interested in Data science and AI
-- 🌱 I’m currently learning Machine Learning
+- Interests: 
+  - 🌱 Data Science
+  - 🌱 Machine Learning
+  - 🌱 Linux
+  - Optimization and cryptography
 
 <!---
 EmmanuelIsai/EmmanuelIsai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
